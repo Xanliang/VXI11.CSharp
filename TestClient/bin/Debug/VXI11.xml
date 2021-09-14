@@ -1,0 +1,295 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VXI11</name>
+    </assembly>
+    <members>
+        <member name="T:VXI11.vxi11">
+            <summary>
+            A collection of constants used by the "vxi11" ONC/RPC program.
+            </summary>
+        </member>
+        <member name="T:VXI11.vxi11_DEVICE_ASYNC_Client">
+            The class <code>vxi11_DEVICE_ASYNC_Client</code> implements the client stub proxy
+            for the DEVICE_ASYNC remote program. It provides method stubs
+            which, when called, in turn call the appropriate remote method (procedure).
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_ASYNC_Client.#ctor(System.Net.IPAddress,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_ASYNC_Client</code> client stub proxy object
+            from which the DEVICE_ASYNC remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_ASYNC_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_ASYNC_Client</code> client stub proxy object
+            from which the DEVICE_ASYNC remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param port Port number at host where the remote program can be reached.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_ASYNC_Client.#ctor(org.acplt.oncrpc.OncRpcClient)">
+            Constructs a <code>vxi11_DEVICE_ASYNC_Client</code> client stub proxy object
+            from which the DEVICE_ASYNC remote program can be accessed.
+            @param client ONC/RPC client connection object implementing a particular
+              protocol.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_ASYNC_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_ASYNC_Client</code> client stub proxy object
+            from which the DEVICE_ASYNC remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param program Remote program number.
+            @param version Remote program version number.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_ASYNC_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_ASYNC_Client</code> client stub proxy object
+            from which the DEVICE_ASYNC remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param program Remote program number.
+            @param version Remote program version number.
+            @param port Port number at host where the remote program can be reached.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_ASYNC_Client.device_abort_1(VXI11.Device_Link)">
+            Call remote procedure device_abort_1.
+            @param arg1 parameter (of type Device_Link) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="T:VXI11.vxi11_DEVICE_CORE_Client">
+            The class <code>vxi11_DEVICE_CORE_Client</code> implements the client stub proxy
+            for the DEVICE_CORE remote program. It provides method stubs
+            which, when called, in turn call the appropriate remote method (procedure).
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.#ctor(System.Net.IPAddress,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_CORE_Client</code> client stub proxy object
+            from which the DEVICE_CORE remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_CORE_Client</code> client stub proxy object
+            from which the DEVICE_CORE remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param port Port number at host where the remote program can be reached.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.#ctor(org.acplt.oncrpc.OncRpcClient)">
+            Constructs a <code>vxi11_DEVICE_CORE_Client</code> client stub proxy object
+            from which the DEVICE_CORE remote program can be accessed.
+            @param client ONC/RPC client connection object implementing a particular
+              protocol.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_CORE_Client</code> client stub proxy object
+            from which the DEVICE_CORE remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param program Remote program number.
+            @param version Remote program version number.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_CORE_Client</code> client stub proxy object
+            from which the DEVICE_CORE remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param program Remote program number.
+            @param version Remote program version number.
+            @param port Port number at host where the remote program can be reached.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.create_link_1(VXI11.Create_LinkParms)">
+            Call remote procedure create_link_1.
+            @param arg1 parameter (of type Create_LinkParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Create_LinkResp).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_write_1(VXI11.Device_WriteParms)">
+            Call remote procedure device_write_1.
+            @param arg1 parameter (of type Device_WriteParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_WriteResp).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_read_1(VXI11.Device_ReadParms)">
+            Call remote procedure device_read_1.
+            @param arg1 parameter (of type Device_ReadParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_ReadResp).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_readstb_1(VXI11.Device_GenericParms)">
+            Call remote procedure device_readstb_1.
+            @param arg1 parameter (of type Device_GenericParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_ReadStbResp).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_trigger_1(VXI11.Device_GenericParms)">
+            Call remote procedure device_trigger_1.
+            @param arg1 parameter (of type Device_GenericParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_clear_1(VXI11.Device_GenericParms)">
+            Call remote procedure device_clear_1.
+            @param arg1 parameter (of type Device_GenericParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_remote_1(VXI11.Device_GenericParms)">
+            Call remote procedure device_remote_1.
+            @param arg1 parameter (of type Device_GenericParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_local_1(VXI11.Device_GenericParms)">
+            Call remote procedure device_local_1.
+            @param arg1 parameter (of type Device_GenericParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_lock_1(VXI11.Device_LockParms)">
+            Call remote procedure device_lock_1.
+            @param arg1 parameter (of type Device_LockParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_unlock_1(VXI11.Device_Link)">
+            Call remote procedure device_unlock_1.
+            @param arg1 parameter (of type Device_Link) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_enable_srq_1(VXI11.Device_EnableSrqParms)">
+            Call remote procedure device_enable_srq_1.
+            @param arg1 parameter (of type Device_EnableSrqParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.device_docmd_1(VXI11.Device_DocmdParms)">
+            Call remote procedure device_docmd_1.
+            @param arg1 parameter (of type Device_DocmdParms) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_DocmdResp).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.destroy_link_1(VXI11.Device_Link)">
+            Call remote procedure destroy_link_1.
+            @param arg1 parameter (of type Device_Link) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.create_intr_chan_1(VXI11.Device_RemoteFunc)">
+            Call remote procedure create_intr_chan_1.
+            @param arg1 parameter (of type Device_RemoteFunc) to the remote procedure call.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_CORE_Client.destroy_intr_chan_1">
+            Call remote procedure destroy_intr_chan_1.
+            @return Result from remote procedure call (of type Device_Error).
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="T:VXI11.vxi11_DEVICE_INTR_Client">
+            The class <code>vxi11_DEVICE_INTR_Client</code> implements the client stub proxy
+            for the DEVICE_INTR remote program. It provides method stubs
+            which, when called, in turn call the appropriate remote method (procedure).
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_INTR_Client.#ctor(System.Net.IPAddress,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_INTR_Client</code> client stub proxy object
+            from which the DEVICE_INTR remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_INTR_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_INTR_Client</code> client stub proxy object
+            from which the DEVICE_INTR remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param port Port number at host where the remote program can be reached.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_INTR_Client.#ctor(org.acplt.oncrpc.OncRpcClient)">
+            Constructs a <code>vxi11_DEVICE_INTR_Client</code> client stub proxy object
+            from which the DEVICE_INTR remote program can be accessed.
+            @param client ONC/RPC client connection object implementing a particular
+              protocol.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_INTR_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_INTR_Client</code> client stub proxy object
+            from which the DEVICE_INTR remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param program Remote program number.
+            @param version Remote program version number.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_INTR_Client.#ctor(System.Net.IPAddress,System.Int32,System.Int32,System.Int32,System.Int32)">
+            Constructs a <code>vxi11_DEVICE_INTR_Client</code> client stub proxy object
+            from which the DEVICE_INTR remote program can be accessed.
+            @param host Internet address of host where to contact the remote program.
+            @param program Remote program number.
+            @param version Remote program version number.
+            @param port Port number at host where the remote program can be reached.
+            @param protocol {@link org.acplt.oncrpc.OncRpcProtocols Protocol} to be
+              used for ONC/RPC calls.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+        <member name="M:VXI11.vxi11_DEVICE_INTR_Client.device_intr_srq_1(VXI11.Device_SrqParms)">
+            Call remote procedure device_intr_srq_1.
+            @param arg1 parameter (of type Device_SrqParms) to the remote procedure call.
+            @throws OncRpcException if an ONC/RPC error occurs.
+            @throws IOException if an I/O error occurs.
+        </member>
+    </members>
+</doc>

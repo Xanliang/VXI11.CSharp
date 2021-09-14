@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\bin\Debug\SharkByte.RemoteTea.Net.nuspec
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\bin\Debug\jportmap.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\bin\Debug\jportmap.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\bin\Debug\RemoteTea.Net.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\bin\Debug\RemoteTea.Net.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\obj\Debug\jportmap.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\obj\Debug\jportmap.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\obj\Debug\jportmap.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\obj\Debug\jportmap.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jportmap\bin\Debug\RemoteTea.Net.xml

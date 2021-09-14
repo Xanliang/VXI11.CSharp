@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\SharkByte.RemoteTea.Net.nuspec
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\TestClient.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\TestClient.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\RemoteTea.Net.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\VXI11.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\RemoteTea.Net.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\VXI11.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\obj\Debug\TestClient.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\obj\Debug\TestClient.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\obj\Debug\TestClient.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\RemoteTea.Net.xml
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\TestClient\bin\Debug\VXI11.xml

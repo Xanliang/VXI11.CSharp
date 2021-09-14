@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\bin\Debug\SharkByte.RemoteTea.Net.nuspec
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\bin\Debug\jrpcgen.exe.config
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\bin\Debug\jrpcgen.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\bin\Debug\jrpcgen.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\bin\Debug\RemoteTea.Net.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\bin\Debug\RemoteTea.Net.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\obj\Debug\jrpcgen.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\obj\Debug\jrpcgen.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\obj\Debug\jrpcgen.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\obj\Debug\jrpcgen.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\jrpcgen\bin\Debug\RemoteTea.Net.xml

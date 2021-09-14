@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\obj\Debug\VXI11.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\bin\Debug\SharkByte.RemoteTea.Net.nuspec
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\bin\Debug\VXI11.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\bin\Debug\VXI11.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\bin\Debug\RemoteTea.Net.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\bin\Debug\RemoteTea.Net.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\obj\Debug\VXI11.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\obj\Debug\VXI11.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\obj\Debug\VXI11.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\bin\Debug\VXI11.xml
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\VXI11\bin\Debug\RemoteTea.Net.xml

@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\SharkByte.RemoteTea.Net.nuspec
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\test.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\test.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\jrpcgen.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\RemoteTea.Net.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\jrpcgen.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\jrpcgen.exe.config
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\RemoteTea.Net.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\obj\Debug\test.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\obj\Debug\test.csproj.CopyComplete
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\obj\Debug\test.exe
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\obj\Debug\test.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\test\bin\Debug\RemoteTea.Net.xml

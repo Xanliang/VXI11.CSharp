@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\remoteteanet\bin\Debug\SharkByte.RemoteTea.Net.nuspec
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\remoteteanet\bin\Debug\RemoteTea.Net.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\remoteteanet\bin\Debug\RemoteTea.Net.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\remoteteanet\obj\Debug\RemoteTea.Net.dll
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\remoteteanet\obj\Debug\RemoteTea.Net.pdb
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\remoteteanet\bin\Debug\RemoteTea.Net.xml
+C:\Users\Administrator\Desktop\RemoteTea.Net-master\remoteteanet\obj\Debug\RemoteTea.Net.csprojAssemblyReference.cache
